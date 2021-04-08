@@ -7,8 +7,8 @@ a simple planner for your work day
 
 ## Contributions
 
-Worked the entire time with Matt Reisdorf [Github] (mattreisdorf.github.com)
-and Jeremy Joanet [Github] (vygoth.github.com)
+Worked the entire time with Matt Reisdorf [Github] (github.com/mattreisdorf)
+and Jeremy Joanet [Github] (github.com/vygoth)
 
 ## My GitHub
 
