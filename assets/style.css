@@ -39,9 +39,9 @@ body {
     border-top: 1px solid white;
   }
   .hour {
-    background-color:hsl(191, 64%, 35%);
+    /* background-color:hsl(191, 64%, 35%); */
     color: #000000;
-    border-top: 1px solid #000000;
+    border-top: 1px dashed #000000;
     /* border-left: 1px solid; */
   }
   /* .past {
@@ -74,11 +74,9 @@ body {
     max-width: 50px;
   }
   .buttonBlock{
-    border-top: 1px solid #000000;
-    border-right: 1px solid;
+    border-top: 1px dashed #000000;
+    /* border-right: 1px solid; */
     border-bottom: 1px transparent;;
   }
 
-  .buttonBlock {
-      background-color:hsl(191, 64%, 35%);
-  }
+  
